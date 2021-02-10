@@ -1,0 +1,211 @@
+Country;Region;C_T;Status;PR;CL;Total
+Abkhazia;Eurasia;t;PF;17;23;40
+Afghanistan;Asia;c;NF;13;14;27
+Albania;Europe;c;PF;27;40;67
+Algeria;MENA;c;NF;10;24;34
+Andorra;Europe;c;F;39;55;94
+Angola;SSA;c;NF;11;21;32
+Antigua and Barbuda;Americas;c;F;33;52;85
+Argentina;Americas;c;F;35;50;85
+Armenia;Eurasia;c;PF;21;32;53
+Australia;Asia;c;F;40;57;97
+Austria;Europe;c;F;37;56;93
+Azerbaijan;Eurasia;c;NF;2;8;10
+Bahamas;Americas;c;F;38;53;91
+Bahrain;MENA;c;NF;1;10;11
+Bangladesh;Asia;c;PF;15;24;39
+Barbados;Americas;c;F;38;57;95
+Belarus;Eurasia;c;NF;5;14;19
+Belgium;Europe;c;F;39;57;96
+Belize;Americas;c;F;35;51;86
+Benin;SSA;c;PF;21;45;66
+Bhutan;Asia;c;PF;29;30;59
+Bolivia;Americas;c;PF;25;38;63
+Bosnia and Herzegovina;Europe;c;PF;19;34;53
+Botswana;SSA;c;F;28;44;72
+Brazil;Americas;c;F;31;44;75
+Brunei;Asia;c;NF;7;21;28
+Bulgaria;Europe;c;F;34;46;80
+Burkina Faso;SSA;c;PF;23;33;56
+Burundi;SSA;c;NF;3;10;13
+Cabo Verde;SSA;c;F;38;54;92
+Cambodia;Asia;c;NF;5;20;25
+Cameroon;SSA;c;NF;7;11;18
+Canada;Americas;c;F;40;58;98
+Central African Republic;SSA;c;NF;4;6;10
+Chad;SSA;c;NF;3;14;17
+Chile;Americas;c;F;38;52;90
+China;Asia;c;NF;-1;11;10
+Colombia;Americas;c;PF;29;37;66
+Comoros;SSA;c;PF;18;26;44
+Congo (Brazzaville);SSA;c;NF;2;18;20
+Congo (Kinshasa);SSA;c;NF;4;14;18
+Costa Rica;Americas;c;F;38;53;91
+Cote d'Ivoire;SSA;c;PF;19;32;51
+Crimea;Eurasia;t;NF;-2;10;8
+Croatia;Europe;c;F;36;49;85
+Cuba;Americas;c;NF;1;13;14
+Cyprus;Europe;c;F;38;56;94
+Czech Republic;Europe;c;F;36;55;91
+Denmark;Europe;c;F;40;57;97
+Djibouti;SSA;c;NF;5;19;24
+Dominica;Americas;c;F;37;56;93
+Dominican Republic;Americas;c;PF;26;41;67
+Eastern Donbas;Eurasia;t;NF;-1;6;5
+Ecuador;Americas;c;PF;27;38;65
+Egypt;MENA;c;NF;7;14;21
+El Salvador;Americas;c;PF;32;34;66
+Equatorial Guinea;SSA;c;NF;0;6;6
+Eritrea;SSA;c;NF;1;1;2
+Estonia;Europe;c;F;38;56;94
+Eswatini;SSA;c;NF;1;18;19
+Ethiopia;SSA;c;NF;10;14;24
+Fiji;Asia;c;PF;24;36;60
+Finland;Europe;c;F;40;60;100
+France;Europe;c;F;38;52;90
+Gabon;SSA;c;NF;3;19;22
+Gaza Strip;MENA;t;NF;3;8;11
+Georgia;Eurasia;c;PF;24;37;61
+Germany;Europe;c;F;39;55;94
+Ghana;SSA;c;F;35;47;82
+Greece;Europe;c;F;37;51;88
+Grenada;Americas;c;F;37;52;89
+Guatemala;Americas;c;PF;21;31;52
+Guinea;SSA;c;PF;15;25;40
+Guinea-Bissau;SSA;c;PF;17;29;46
+Guyana;Americas;c;F;31;43;74
+Haiti;Americas;c;PF;16;22;38
+Honduras;Americas;c;PF;19;26;45
+Hong Kong;Asia;t;PF;16;39;55
+Hungary;Europe;c;PF;27;43;70
+Iceland;Europe;c;F;37;57;94
+India;Asia;c;F;34;37;71
+Indian Kashmir;Asia;t;NF;8;20;28
+Indonesia;Asia;c;PF;30;31;61
+Iran;MENA;c;NF;7;10;17
+Iraq;MENA;c;NF;17;14;31
+Ireland;Europe;c;F;39;58;97
+Israel;MENA;c;F;33;43;76
+Italy;Europe;c;F;36;53;89
+Jamaica;Americas;c;F;34;44;78
+Japan;Asia;c;F;40;56;96
+Jordan;MENA;c;PF;12;25;37
+Kazakhstan;Eurasia;c;NF;5;18;23
+Kenya;SSA;c;PF;19;29;48
+Kiribati;Asia;c;F;37;56;93
+Kosovo;Europe;c;PF;25;31;56
+Kuwait;MENA;c;PF;13;23;36
+Kyrgyzstan;Eurasia;c;PF;12;27;39
+Laos;Asia;c;NF;2;12;14
+Latvia;Europe;c;F;37;52;89
+Lebanon;MENA;c;PF;14;30;44
+Lesotho;SSA;c;PF;27;36;63
+Liberia;SSA;c;PF;27;33;60
+Libya;MENA;c;NF;1;8;9
+Liechtenstein;Europe;c;F;33;57;90
+Lithuania;Europe;c;F;38;53;91
+Luxembourg;Europe;c;F;38;60;98
+Madagascar;SSA;c;PF;26;35;61
+Malawi;SSA;c;PF;26;36;62
+Malaysia;Asia;c;PF;21;31;52
+Maldives;Asia;c;PF;18;22;40
+Mali;SSA;c;PF;17;24;41
+Malta;Europe;c;F;35;55;90
+Marshall Islands;Asia;c;F;38;55;93
+Mauritania;SSA;c;PF;13;21;34
+Mauritius;SSA;c;F;37;52;89
+Mexico;Americas;c;PF;27;35;62
+Micronesia;Asia;c;F;37;55;92
+Moldova;Eurasia;c;PF;26;34;60
+Monaco;Europe;c;F;26;57;83
+Mongolia;Asia;c;F;36;48;84
+Montenegro;Europe;c;PF;22;40;62
+Morocco;MENA;c;PF;13;24;37
+Mozambique;SSA;c;PF;14;31;45
+Myanmar;Asia;c;NF;14;16;30
+Nagorno-Karabakh;Eurasia;t;PF;13;21;34
+Namibia;SSA;c;F;31;46;77
+Nauru;Asia;c;F;34;43;77
+Nepal;Asia;c;PF;25;31;56
+Netherlands;Europe;c;F;40;59;99
+New Zealand;Asia;c;F;40;57;97
+Nicaragua;Americas;c;NF;10;21;31
+Niger;SSA;c;PF;20;28;48
+Nigeria;SSA;c;PF;22;25;47
+North Korea;Asia;c;NF;0;3;3
+North Macedonia;Europe;c;PF;24;39;63
+Northern Cyprus;Europe;t;F;31;50;81
+Norway;Europe;c;F;40;60;100
+Oman;MENA;c;NF;6;17;23
+Pakistan;Asia;c;PF;16;22;38
+Pakistani Kashmir;Asia;t;NF;9;19;28
+Palau;Asia;c;F;37;55;92
+Panama;Americas;c;F;36;48;84
+Papua New Guinea;Asia;c;PF;23;39;62
+Paraguay;Americas;c;PF;28;37;65
+Peru;Americas;c;F;30;42;72
+Philippines;Asia;c;PF;25;34;59
+Poland;Europe;c;F;35;49;84
+Portugal;Europe;c;F;39;57;96
+Qatar;MENA;c;NF;7;18;25
+Romania;Europe;c;F;35;48;83
+Russia;Eurasia;c;NF;5;15;20
+Rwanda;SSA;c;NF;8;14;22
+Samoa;Asia;c;F;30;51;81
+San Marino;Europe;c;F;38;57;95
+Sao Tome and Principe;SSA;c;F;35;49;84
+Saudi Arabia;MENA;c;NF;1;6;7
+Senegal;SSA;c;PF;29;42;71
+Serbia;Europe;c;PF;23;43;66
+Seychelles;SSA;c;PF;29;43;72
+Sierra Leone;SSA;c;PF;28;37;65
+Singapore;Asia;c;PF;19;31;50
+Slovakia;Europe;c;F;36;52;88
+Slovenia;Europe;c;F;39;55;94
+Solomon Islands;Asia;c;F;30;49;79
+Somalia;SSA;c;NF;1;6;7
+Somaliland;SSA;t;PF;17;24;41
+South Africa;SSA;c;F;33;46;79
+South Korea;Asia;c;F;33;50;83
+South Ossetia;Eurasia;t;NF;2;8;10
+South Sudan;SSA;c;NF;-2;4;2
+Spain;Europe;c;F;38;54;92
+Sri Lanka;Asia;c;PF;23;33;56
+St. Kitts and Nevis;Americas;c;F;36;53;89
+St. Lucia;Americas;c;F;38;54;92
+St. Vincent and the Grenadines;Americas;c;F;36;55;91
+Sudan;SSA;c;NF;2;10;12
+Suriname;Americas;c;F;32;43;75
+Sweden;Europe;c;F;40;60;100
+Switzerland;Europe;c;F;39;57;96
+Syria;MENA;c;NF;-3;3;0
+Taiwan;Asia;c;F;37;56;93
+Tajikistan;Eurasia;c;NF;0;9;9
+Tanzania;SSA;c;PF;17;23;40
+Thailand;Asia;c;PF;6;26;32
+The Gambia;SSA;c;PF;20;26;46
+Tibet;Asia;t;NF;-2;3;1
+Timor-Leste;Asia;c;F;32;39;71
+Togo;SSA;c;PF;16;28;44
+Tonga;Asia;c;F;30;49;79
+Transnistria;Eurasia;t;NF;9;13;22
+Trinidad and Tobago;Americas;c;F;33;49;82
+Tunisia;MENA;c;F;32;38;70
+Turkey;Europe;c;NF;16;16;32
+Turkmenistan;Eurasia;c;NF;0;2;2
+Tuvalu;Asia;c;F;37;56;93
+Uganda;SSA;c;NF;11;23;34
+Ukraine;Eurasia;c;PF;27;35;62
+United Arab Emirates;MENA;c;NF;5;12;17
+United Kingdom;Europe;c;F;39;55;94
+United States;Americas;c;F;33;53;86
+Uruguay;Americas;c;F;40;58;98
+Uzbekistan;Eurasia;c;NF;2;8;10
+Vanuatu;Asia;c;F;33;49;82
+Venezuela;Americas;c;NF;2;14;16
+Vietnam;Asia;c;NF;3;17;20
+West Bank;MENA;t;NF;4;21;25
+Western Sahara;MENA;t;NF;-3;7;4
+Yemen;MENA;c;NF;1;10;11
+Zambia;SSA;c;PF;22;32;54
+Zimbabwe;SSA;c;PF;12;17;29
